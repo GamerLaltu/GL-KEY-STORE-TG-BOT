@@ -1,0 +1,5 @@
+setuptools
+wheel
+maturin
+aiogram
+aiohttp
