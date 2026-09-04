@@ -23,7 +23,7 @@ from aiogram.types import (
 # ==============================================================================
 # 1. BOT CONFIGURATION & CONSTANTS
 # ==============================================================================
-BOT_TOKEN = "8706432939:AAErPIiGf7YAPGTcOMQVKUhy5Dg-fAFmRHM"
+BOT_TOKEN = "8706432939:AAFzmLU4X2KOBA1-efbQUvyioVWtW-qDNYQ"
 BOT_USERNAME = "@GL_KEY_STORE_BOT"
 ADMIN_ID = 7498723155
 ADMIN_CONTACT = "@THEKINGCHEATS_8"
